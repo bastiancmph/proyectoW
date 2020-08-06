@@ -36,7 +36,7 @@ function App() {
 
       <div class="flex flex-col items-center m-4">
         <div>
-        <Tarjeta />
+        <Tarjeta peliculanombre={"Stranger things"}/>.
         
         </div>
         <div class="text-gray-700 text-center bg-gray-400 px-4 py-2 m-2">2</div>
